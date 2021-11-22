@@ -1,0 +1,5 @@
+.idea/
+SpoDo.cfg
+__pycache__/
+*.exe
+venv/
